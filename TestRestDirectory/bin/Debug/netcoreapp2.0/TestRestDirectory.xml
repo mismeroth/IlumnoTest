@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestRestDirectory</name>
+    </assembly>
+    <members>
+        <member name="T:TestRestDirectory.Controladores.PersonasController">
+            <summary>
+            Controlador de Entidad=Personas
+            </summary>
+        </member>
+        <member name="M:TestRestDirectory.Controladores.PersonasController.#ctor(TestRestDirectory.Models.DirectoryContext)">
+            <summary>
+            Constructor de la Clase
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:TestRestDirectory.Controladores.PersonasController.GetPersonas">
+            <summary>
+            Obtener Personas
+            GET: api/Personas
+            </summary>
+            <returns>Lista Personas</returns>
+        </member>
+        <member name="M:TestRestDirectory.Controladores.PersonasController.GetPersonas(System.Int32)">
+            <summary>
+            Obtener Persona por ID
+            GET: api/Personas/5
+            </summary>
+            <param name="id">Identificador</param>
+            <returns>Persona</returns>
+        </member>
+        <member name="M:TestRestDirectory.Controladores.PersonasController.PutPersonas(System.Int32,TestRest.Modelos.Personas)">
+            <summary>
+            Actualiza una Persona
+            PUT: api/Personas/5
+            </summary>
+            <param name="id">Identificador Persona</param>
+            <param name="personas">JSON Persona</param>
+            <returns></returns>
+        </member>
+        <member name="M:TestRestDirectory.Controladores.PersonasController.PostPersonas(TestRest.Modelos.Personas)">
+            <summary>
+            Crea una Persona
+            POST: api/Personas
+            </summary>
+            <param name="personas">JSON Persona</param>
+            <returns></returns>
+        </member>
+        <member name="M:TestRestDirectory.Controladores.PersonasController.DeletePersonas(System.Int32)">
+            <summary>
+            Elimina una persona
+            DELETE: api/Personas/5
+            </summary>
+            <param name="id">Identificador Persona</param>
+            <returns></returns>
+        </member>
+        <member name="T:TestRest.Modelos.Personas">
+            <summary>
+            Clase Entidad Personas
+            </summary>
+        </member>
+        <member name="P:TestRest.Modelos.Personas.Id">
+            <summary>
+            Identificador de Persona
+            </summary>
+        </member>
+        <member name="P:TestRest.Modelos.Personas.Nombres">
+            <summary>
+            Nombres
+            </summary>
+        </member>
+        <member name="P:TestRest.Modelos.Personas.Apellidos">
+            <summary>
+            Apellidos
+            </summary>
+        </member>
+        <member name="P:TestRest.Modelos.Personas.CorreoE">
+            <summary>
+            Correo Electronico
+            </summary>
+        </member>
+        <member name="P:TestRest.Modelos.Personas.TelefonoFijo">
+            <summary>
+             Numero de telefono Fijo
+            </summary>
+        </member>
+        <member name="P:TestRest.Modelos.Personas.TelefonoMovil">
+            <summary>
+            Numero de telefono Movil
+            </summary>
+        </member>
+    </members>
+</doc>

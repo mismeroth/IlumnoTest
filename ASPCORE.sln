@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestRestDirectory", "TestRestDirectory\TestRestDirectory.csproj", "{99FE7DAF-C18A-4156-B2C2-AF08C07F0CE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FE7DAF-C18A-4156-B2C2-AF08C07F0CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FE7DAF-C18A-4156-B2C2-AF08C07F0CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FE7DAF-C18A-4156-B2C2-AF08C07F0CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FE7DAF-C18A-4156-B2C2-AF08C07F0CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {579394D4-46D2-4BCF-B727-9D56152CCBD4}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mismeroth.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestRestDirectory\\TestRestDirectory.csproj
+		SccProjectName1 = TestRestDirectory
+		SccLocalPath1 = TestRestDirectory
+	EndGlobalSection
+EndGlobal

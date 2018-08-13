@@ -1,0 +1,14 @@
+D:\Proyectos\TFS\Test\TestRestDirectory\bin\Debug\netcoreapp2.1\TestRestDirectory.deps.json
+D:\Proyectos\TFS\Test\TestRestDirectory\bin\Debug\netcoreapp2.1\TestRestDirectory.runtimeconfig.json
+D:\Proyectos\TFS\Test\TestRestDirectory\bin\Debug\netcoreapp2.1\TestRestDirectory.runtimeconfig.dev.json
+D:\Proyectos\TFS\Test\TestRestDirectory\bin\Debug\netcoreapp2.1\TestRestDirectory.dll
+D:\Proyectos\TFS\Test\TestRestDirectory\bin\Debug\netcoreapp2.1\TestRestDirectory.pdb
+D:\Proyectos\TFS\Test\TestRestDirectory\bin\Debug\netcoreapp2.1\TestRestDirectory.xml
+D:\Proyectos\TFS\Test\TestRestDirectory\obj\Debug\netcoreapp2.1\TestRestDirectory.csproj.CoreCompileInputs.cache
+D:\Proyectos\TFS\Test\TestRestDirectory\obj\Debug\netcoreapp2.1\TestRestDirectory.RazorAssemblyInfo.cache
+D:\Proyectos\TFS\Test\TestRestDirectory\obj\Debug\netcoreapp2.1\TestRestDirectory.RazorAssemblyInfo.cs
+D:\Proyectos\TFS\Test\TestRestDirectory\obj\Debug\netcoreapp2.1\TestRestDirectory.AssemblyInfoInputs.cache
+D:\Proyectos\TFS\Test\TestRestDirectory\obj\Debug\netcoreapp2.1\TestRestDirectory.AssemblyInfo.cs
+D:\Proyectos\TFS\Test\TestRestDirectory\obj\Debug\netcoreapp2.1\TestRestDirectory.RazorTargetAssemblyInfo.cache
+D:\Proyectos\TFS\Test\TestRestDirectory\obj\Debug\netcoreapp2.1\TestRestDirectory.dll
+D:\Proyectos\TFS\Test\TestRestDirectory\obj\Debug\netcoreapp2.1\TestRestDirectory.pdb
